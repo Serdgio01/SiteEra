@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nescafe Coffee Cup
+* source:	https://sketchfab.com/3d-models/nescafe-coffee-cup-be610b51a2d94e34abe98fce20579ea7
+* author:	SantyFrow (https://sketchfab.com/santyfrow)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nescafe Coffee Cup" (https://sketchfab.com/3d-models/nescafe-coffee-cup-be610b51a2d94e34abe98fce20579ea7) by SantyFrow (https://sketchfab.com/santyfrow) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
